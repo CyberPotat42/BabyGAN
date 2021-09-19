@@ -10,21 +10,7 @@
 
 **Encoder:** [StyleGAN-Encoder](https://github.com/pbaylies/stylegan-encoder)
 
-## 
-Перейдите по [ссылке](https://drive.google.com/drive/folders/1xwqqG0HkLe2AiXxjC-XK8OfvMKT1jBlp) и добавьте шорткат этой папки себе на гугл драйв:
-
-Структура папок будет примерно такая:
-    
-    .
-    ├── data                    
-    │   └── finetuned_resnet.h5 
-    ├── karras2019stylegan-ffhq-1024x1024.pkl
-    ├── shape_predictor_68_face_landmarks.dat.bz2
-    ├── vgg16_weights_tf_dim_ordering_tf_kernels_notop.h5
-    ├── vgg16_zhang_perceptual.pkl
-    └── ...
-
-## Prerequisites
+## Системные требования
 * 64-bit Python 3.6 installation
 * TensorFlow 1.10.0 with GPU support
 * One or more high-end NVIDIA GPUs with at least 11GB of DRAM
